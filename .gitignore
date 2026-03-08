@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build
+build/
+
+# Environment variables - DON'T COMMIT THESE!
+.env
+.env.local
+.env.production
+
+# Misc
+.DS_Store
